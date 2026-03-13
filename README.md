@@ -2,6 +2,10 @@
 Simple Python program to calculate the total price of drinks
 # Drink Price Calculator
 
+## Repository
+GitHub repository:
+https://github.com/Jossmmejia/drink-price-calculator/blob/main/README.md
+
 ## Description
 
 This project is a simple Python program.  
